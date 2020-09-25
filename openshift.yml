@@ -64,7 +64,7 @@ items:
     resources: {}
     source:
       git:
-        uri: https://github.com/browningjp/shadowing
+        uri: https://github.com/RH-UKI-Grads/shadowing
       type: Git
     strategy:
       sourceStrategy:
